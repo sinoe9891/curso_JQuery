@@ -1,6 +1,6 @@
 # CURSO DE JQUERY
 
-1. **561. Esperando a que el documento este listo
+1. ** Esperando a que el documento este listo
 4 min
 
 562. Seleccionando contenido con jQuery
