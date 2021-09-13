@@ -1,43 +1,40 @@
 # CURSO DE JQUERY
 
-1. ** Esperando a que el documento este listo
-4 min
+1. ** Esperando a que el documento este listo 4 min ** :x:
 
-562. Seleccionando contenido con jQuery
-7 min
+1. Seleccionando contenido con jQuery 7 min ** :white_check_mark:
 
-563. Clonando contenido con jQuery
-5 min
+1. Clonando contenido con jQuery 5 min ** :ballot_box_with_check:
 
-564. Borrando y Mostrando contenido con jQuery
+1. Borrando y Mostrando contenido con jQuery
 6 min
 
-565. Agregando / Quitando clases con jQuery
+1. Agregando / Quitando clases con jQuery
 5 min
 
-566. Manejando Eventos con jQuery
+1. Manejando Eventos con jQuery
 3 min
 
-567. Navegando a través del DOM con jQuery
+1. Navegando a través del DOM con jQuery
 5 min
 
-568. Obteniendo el Texto y Actualizándolo con jQuery
+1. Obteniendo el Texto y Actualizándolo con jQuery
 3 min
 
-569. Seleccionando y Cambiando Atributos con jQuery
+1. Seleccionando y Cambiando Atributos con jQuery
 4 min
 
-570. Cambiando el CSS de un elemento con jQuery
+1. Cambiando el CSS de un elemento con jQuery
 5 min
 
-571. Eventos en jQuery
+1. Eventos en jQuery
 4 min
 
-572. SlideUp y SlideDown
+1. SlideUp y SlideDown
 2 min
 
-573. Ajax con jQuery
+1. Ajax con jQuery
 7 min
 
-574. Recorriendo un arreglo con jQuery
+1. Recorriendo un arreglo con jQuery
 7 min
